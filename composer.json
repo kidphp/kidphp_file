@@ -1,0 +1,22 @@
+{
+    "name": "kidphp/kidphp_file",
+    "description": "about file function",
+    "homepage": "http://www.kidphp.com",
+    "authors": [
+        {
+            "name": "kid",
+            "email": "3403682791@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "keywords": [
+        "获取txt文件第一行"
+    ],
+    "autoload": {
+        "psr-4": {
+            "Kidphp\\KidphpFile\\": "src/"
+        }
+    }
+}
